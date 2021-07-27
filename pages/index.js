@@ -58,7 +58,7 @@ const questionsLanguageParts = [
     name: "ПРАШАЊА ОД АНГЛИСКИ ЈАЗИК - (ВИСОКО НИВО)",
     type: "English for Category B of administration servants (B1)",
     numOfQuestion: 200,
-    testLink: "#",
+    testLink: "https://forms.gle/yE3yzBhvT7cu7hPL8",
   },
 ];
 
